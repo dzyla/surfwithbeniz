@@ -23,4 +23,4 @@ Book your surfing session at the prefered spot today! See yourself from the pers
 ## When?
 > Whenever, no Tuesdays and Wednesdays, unless it will be done by 9:30
 
-![](/static/img/DSC_6414.jpg)
+![](/DSC_6414.jpg)
