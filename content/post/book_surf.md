@@ -12,10 +12,10 @@ Book your surfing session at the prefered spot today! See yourself from the pers
 > Contact your favourite photographer today. Chose spot. 
 
 ## What can I expect?
-> Photos mostly. Friendly athomosphere. Limited amount of complains.
+> Photos mostly. Friendly athomosphere. Premium (ofc) quality pictures. Limited amount of complains.
 
 ## What are the limitations?
-> Not earlier than sunrise, preferred later hours but it's your day and your choise.
+> Not earlier than sunrise, preferred later hours but it's your day and your choice.
 
 ## What are suggestions?
 > Bright and not foggy day with nice light. Wear black suit (hehe)

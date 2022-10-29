@@ -30,7 +30,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Surf with Beniz"
-      logoHomeLink = "/"
+      logoHomeLink = "https://dzyla.github.io/surfwithbeniz/"
     # or
     #
     # path = "/img/your-example-logo.svg"
